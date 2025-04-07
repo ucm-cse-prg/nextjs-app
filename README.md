@@ -8,6 +8,7 @@ This repository is designed to serve as a foundational starting point for modern
 
 ```
 my-next-app/
+├── .github/workflows            # CI/CD GitHub Actions workflows
 ├── public/                      # Static assets
 ├── src/
 │   ├── app/                     # Routing (App Router)
@@ -73,7 +74,7 @@ my-next-app/
 - Easy configuration through `next.config.js`
 
 ### 🎨 Styling and UI Libraries
-**Library:** [Tailwind CSS](https://tailwindcss.com/) + Any UI Library
+**Library:** [Tailwind CSS](https://tailwindcss.com/) + [Material UI](https://mui.com/material-ui/)
 - Component styling via utility classes
 - Easily customizable and responsive
 
